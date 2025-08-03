@@ -43,7 +43,7 @@ const navLinks = [
         <div className="flex items-center space-x-4">
           <img
             onClick={() => navigate("/")}
-            src="public/ChatGPT_Image_Jul_20__2025__04_55_44_PM-removebg-preview.png"
+            src="/ChatGPT_Image_Jul_20__2025__04_55_44_PM-removebg-preview.png"
             alt="App Logo"
             className="cursor-pointer h-12 w-12 rounded-full shadow mb-0 bg-gradient-to-r from-purple-500 to-pink-500 transition-transform duration-300 hover:scale-110 relative top-0 md:h-16 md:w-16"
           />

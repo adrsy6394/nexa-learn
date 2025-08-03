@@ -65,7 +65,7 @@ const handleGoogleLogin = () => {
       >
         <div className="flex justify-center">
           <img
-            src="public/ChatGPT_Image_Jul_20__2025__04_55_44_PM-removebg-preview.png"
+            src="/ChatGPT_Image_Jul_20__2025__04_55_44_PM-removebg-preview.png"
             alt="App Logo"
             className="h-16 w-16 rounded-full shadow mb-4"
           />
